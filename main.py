@@ -53,9 +53,9 @@ df["Custo-Benefício"] = (df["Avaliação (1-5)"] / df["Preço (£)"]).round(2)
 df_filtrado = df.sort_values(by="Custo-Benefício", ascending=False)
 
 # mostra tabela no terminal
-print("\n📊 Livros ordenados por custo-benefício:\n")
+print("\n Livros ordenados por custo-benefício:\n")
 print(df_filtrado.to_string(index=False))
 
 # salva em CSV
 df_filtrado.to_csv("livros_custo_beneficio.csv", index=False, encoding="utf-8")
-print("\n✅ Arquivo 'livros_custo_beneficio.csv' salvo com sucesso!")
+print("\n Arquivo 'livros_custo_beneficio.csv' salvo com sucesso!")
