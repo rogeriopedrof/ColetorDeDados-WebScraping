@@ -9,9 +9,9 @@ Praticar técnicas de web scraping, manipulação de dados com pandas, e automa�
 
 2 Who (Quem participa?)
 
-Desenvolvedores iniciantes ou intermediários interessados em aprender web scraping, automação e análise de dados com Python.
-Usuários que desejam consultar listas de livros com preços e avaliações para decisões de compra ou estudos culturais.
-
+Rogério - Web scraping
+Lucas - Pandas
+Ygor - Suporte e Revisão
 
 3 Where (Onde será usado?)
 
