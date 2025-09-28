@@ -9,9 +9,9 @@ Praticar técnicas de web scraping, manipulação de dados com pandas, e automa�
 
 ## 3 Who (Quem participa?)
 
- Rogério - Web scraping
- Lucas - Pandas
- Ygor - Suporte e Revisão
+- Rogério: Web scraping
+- Lucas: Pandas
+- Ygor: Suporte e Revisão
 
 ## 4 Where (Onde será usado?)
 
